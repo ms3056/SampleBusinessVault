@@ -1,0 +1,11 @@
+# OR only to exclude workspace cache
+.obsidian/workspace.json
+.obsidian/app.json
+.obsidian/appearance.json
+.obsidian/hotkeys.json
+.obsidian/plugins/*
+.obsidian/themes/*
+
+# Add below lines to exclude OS settings and caches
+.trash/
+.DS_Store
